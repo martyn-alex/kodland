@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif!important;
+}
+
+.card-title{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card-text{
+    font-size: 15px;
+    font-weight: 300;
+    color: #666;
+}
+
+.btn-green{
+    color: white!important;
+    background-color: #4ed17b!important;
+    outline: none;
+    border: none;
+}
+
+.price{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.price span{
+    font-size: 15px;
+    font-weight: 300;
+}
